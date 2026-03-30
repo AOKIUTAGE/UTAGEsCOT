@@ -1,5 +1,5 @@
 # UTAGEsCOT是AOKiUTAGE的自制贴图美化mod仓库，适用于游戏Course Of Temptation。
-请在release区下载。
+请在release区下载新版，旧版本已停更。
  AU美化mod可以直接用游戏汉化版自带的模组加载器安装。本质是原版图包的替换贴图。
 个人美化进度较慢，目前版本并不可完全替换原版。如若出现贴图消失或变为原版贴图请耐心等待作者更新。 
 AU美化mod完全开放二创二改，但公开发布需要署名模型作者AokiUtage。
